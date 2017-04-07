@@ -25,7 +25,7 @@
       "ui_kits" : {
         "UI_KITS" : "UI套件",
         "BUTTONS" : "按钮",
-        "ICONS" : "图表",
+        "ICONS" : "图标",
         "GRID" : "表格",
         "BOOTSTRAP" : "Bootstrap",
         "SORTABLE" : "可排序",
